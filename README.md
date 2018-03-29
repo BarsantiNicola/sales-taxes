@@ -103,13 +103,13 @@ Configuration files are located in data folder.
 Line width in "Line Wrapper" and "Comments" tabs (Eclipse Window :arrow_forward: Preferences :arrow_forward: Java :arrow_forward: Code Style :arrow_forward: Formatter) should be set to 800.
 
 ### Packages structure
-- Basic package is `cloud.nimvps.exercises.salestaxes`, which cotains the main class
+- Basic package is `cloud.nimvps.exercises.salestaxes`, which contains the main class
 - Daos interfaces, implementations, models and parsers are located in `<basic_backage>.core.dao`
 - Business logics classes are located in `<basic_backage>.core.logics` and processed objects models are in `<basic_backage>.core.model`
 - Utility classes can be foud in `<basic_backage>.core.utils`
 - View is located in `<basic_backage>.view` packege
 
 ### Notes
-- No additional libray was added to allow easier integration in any system
+- No additional library was added to allow easier integration in any system
 - New daos and parsers implementations can be used to read configurations and receipts from any source
 - "Beware the groove!"
