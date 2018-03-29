@@ -1,7 +1,0 @@
-1;book;book
-2;music CD;media
-3;chocolate bar;food
-4;box of chocolates;food
-5;bottle of perfume;perfume
-6;packet of headache pills;medical
-7;box of imported chocolates;food

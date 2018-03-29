@@ -76,10 +76,9 @@ mvn clean package
 
 After installation steps:
 
-```
-cd target
-java -jar sales-taxes.jar <receipt-file-path>
-```
+- Copy `sales-taxes.jar` from `target` folder to your desired folder
+- Copy `data` folder from `src/test/resources` to your desired folder
+- In your desired folder run `java -jar sales-taxes.jar <receipt-file-path>`
 
 ### Configuration files
 

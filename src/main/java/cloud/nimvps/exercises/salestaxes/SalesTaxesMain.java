@@ -32,7 +32,6 @@ public class SalesTaxesMain {
 	private static Logger log = Logger.getLogger(SalesTaxesMain.class.getName());
 
 	public static void main(String[] args) throws Exception {
-		args = new String[] { "tests/receipt1_input.txt" };
 		new SalesTaxesMain().run(args);
 	}
 
