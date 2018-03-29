@@ -66,7 +66,7 @@ Total: 74.68
 ### Installation steps
 
 ```
-git clone https://github.com/a
+git clone https://github.com/noir707/sales-taxes.git
 cd sales-taxes
 
 mvn clean package
