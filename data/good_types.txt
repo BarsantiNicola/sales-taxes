@@ -1,0 +1,5 @@
+book;false
+media;true
+food;false
+perfume;true
+medical;false
