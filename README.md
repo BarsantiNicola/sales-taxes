@@ -112,4 +112,3 @@ Line width in "Line Wrapper" and "Comments" tabs (Eclipse Window :arrow_forward:
 ### Notes
 - No additional library was added to allow easier integration in any system
 - New daos and parsers implementations can be used to read configurations and receipts from any source
-- "Beware the groove!"
